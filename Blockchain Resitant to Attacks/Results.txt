@@ -1,0 +1,182 @@
+Results from the Experiments Conducted : 
+
+
+z0 = 50, ttx = 10, I = 1000.0, h0 = 0.3, h1 = 0.0001, stop = 1.0
+MPU of selfish miner 0:  0.7777777777777778
+MPU of selfish miner 1: 0
+MPU overall:  0.6129032258064516
+Blocks created by selfish miner 0:  9  Blocks in longest chain:  7
+Blocks created by selfish miner 1:  0  Blocks in longest chain:  0
+Length of longest Chain :  19  Total Blocks :  31
+
+z0 = 50, ttx = 10, I = 1000.0, h0 = 0.3, h1 = 0.0001, stop = 1.0
+MPU of selfish miner 0:  0.75
+MPU of selfish miner 1: 0
+MPU overall:  0.5625
+Blocks created by selfish miner 0:  8  Blocks in longest chain:  6
+Blocks created by selfish miner 1:  0  Blocks in longest chain:  0
+Length of longest Chain :  18  Total Blocks :  32
+
+z0 = 50, ttx = 10, I = 1000.0, h0 = 0.3, h1 = 0.0001, stop = 1.0
+MPU of selfish miner 0:  0.6666666666666666
+MPU of selfish miner 1: 0
+MPU overall:  0.625
+Blocks created by selfish miner 0:  9  Blocks in longest chain:  6
+Blocks created by selfish miner 1:  0  Blocks in longest chain:  0
+Length of longest Chain :  20  Total Blocks :  32
+
+-----------------------
+
+z0 = 50, ttx = 10, I = 1000.0, h0 = 0.4, h1 = 0.0001, stop = 1.0
+MPU of selfish miner 0:  1.0
+MPU of selfish miner 1: 0
+MPU overall:  0.5757575757575758
+Blocks created by selfish miner 0:  18  Blocks in longest chain:  18
+Blocks created by selfish miner 1:  0  Blocks in longest chain:  0
+Length of longest Chain :  19  Total Blocks :  33
+
+Simulating the cryptocurrency network with 15 peers
+z0 = 50, ttx = 10, I = 1000.0, h0 = 0.4, h1 = 0.0001, stop = 1.0
+MPU of selfish miner 0:  0.8666666666666667
+MPU of selfish miner 1: 0
+MPU overall:  0.5483870967741935
+Blocks created by selfish miner 0:  15  Blocks in longest chain:  13
+Blocks created by selfish miner 1:  0  Blocks in longest chain:  0
+Length of longest Chain :  17  Total Blocks :  31
+
+------------
+
+z0 = 50, ttx = 10, I = 1000.0, h0 = 0.5, h1 = 0.0001, stop = 1.0
+MPU of selfish miner 0:  0.7272727272727273
+MPU of selfish miner 1: 0
+MPU overall:  0.6451612903225806
+Blocks created by selfish miner 0:  11  Blocks in longest chain:  8
+Blocks created by selfish miner 1:  0  Blocks in longest chain:  0
+Length of longest Chain :  20  Total Blocks :  31
+
+
+Simulating the cryptocurrency network with 15 peers
+z0 = 50, ttx = 10, I = 1000.0, h0 = 0.5, h1 = 0.0001, stop = 1.0
+MPU of selfish miner 0:  0.6923076923076923
+MPU of selfish miner 1: 0
+MPU overall:  0.625
+Blocks created by selfish miner 0:  13  Blocks in longest chain:  9
+Blocks created by selfish miner 1:  0  Blocks in longest chain:  0
+Length of longest Chain :  20  Total Blocks :  32
+
+----------------------------------------- 0.3 
+Simulating the cryptocurrency network with 15 peers
+z0 = 50, ttx = 10, I = 1000.0, h0 = 0.3, h1 = 0.3, stop = 1.0
+MPU of selfish miner 0:  0.3125
+MPU of selfish miner 1:  0.5555555555555556
+MPU overall:  0.4722222222222222
+Blocks created by selfish miner 0:  16  Blocks in longest chain:  5
+Blocks created by selfish miner 1:  9  Blocks in longest chain:  5
+Length of longest Chain :  17  Total Blocks :  36
+
+
+Simulating the cryptocurrency network with 15 peers
+z0 = 50, ttx = 10, I = 1000.0, h0 = 0.3, h1 = 0.3, stop = 1.0
+MPU of selfish miner 0:  0.7
+MPU of selfish miner 1:  0.4444444444444444
+MPU overall:  0.4838709677419355
+Blocks created by selfish miner 0:  10  Blocks in longest chain:  7
+Blocks created by selfish miner 1:  9  Blocks in longest chain:  4
+Length of longest Chain :  15  Total Blocks :  31
+
+----------------------------------------- 0.4
+
+z0 = 50, ttx = 10, I = 1000.0, h0 = 0.3, h1 = 0.4, stop = 1.0
+MPU of selfish miner 0:  0.0
+MPU of selfish miner 1:  1.0
+MPU overall:  0.4634146341463415
+Blocks created by selfish miner 0:  16  Blocks in longest chain:  0
+Blocks created by selfish miner 1:  18  Blocks in longest chain:  18
+Length of longest Chain :  19  Total Blocks :  41
+
+Simulating the cryptocurrency network with 15 peers
+z0 = 50, ttx = 10, I = 1000.0, h0 = 0.3, h1 = 0.4, stop = 1.0
+MPU of selfish miner 0:  0.46153846153846156
+MPU of selfish miner 1:  0.6875
+MPU overall:  0.4864864864864865
+Blocks created by selfish miner 0:  13  Blocks in longest chain:  6
+Blocks created by selfish miner 1:  16  Blocks in longest chain:  11
+Length of longest Chain :  18  Total Blocks :  37
+
+Simulating the cryptocurrency network with 15 peers
+z0 = 50, ttx = 10, I = 1000.0, h0 = 0.3, h1 = 0.4, stop = 1.0      
+MPU of selfish miner 0:  0.3076923076923077
+MPU of selfish miner 1:  0.8571428571428571
+MPU overall:  0.4857142857142857
+Blocks created by selfish miner 0:  13  Blocks in longest chain:  4
+Blocks created by selfish miner 1:  14  Blocks in longest chain:  12
+Length of longest Chain :  17  Total Blocks :  35
+
+
+----------------------------------------- 0.5
+—-------------------------------------------------------- h2 0.5 
+Simulating the cryptocurrency network with 15 peers
+z0 = 50, ttx = 10, I = 1000.0, h0 = 0.3, h1 = 0.5, stop = 1.0
+MPU of selfish miner 0:  0.0
+MPU of selfish miner 1:  1.0
+MPU overall:  0.4444444444444444
+Blocks created by selfish miner 0:  19  Blocks in longest chain:  0
+Blocks created by selfish miner 1:  19  Blocks in longest chain:  19
+Length of longest Chain :  20  Total Blocks :  45
+
+Simulating the cryptocurrency network with 15 peers
+z0 = 50, ttx = 10, I = 1000.0, h0 = 0.3, h1 = 0.5, stop = 1.0
+MPU of selfish miner 0:  0.0
+MPU of selfish miner 1:  1.0
+MPU overall:  0.5
+Blocks created by selfish miner 0:  18  Blocks in longest chain:  0
+Blocks created by selfish miner 1:  23  Blocks in longest chain:  23
+Length of longest Chain :  24  Total Blocks :  48
+
+
+
+---------- 0.3, [0, 0.1, 0.2]
+
+Simulating the cryptocurrency network with 15 peers
+z0 = 50, ttx = 10, I = 1000.0, h0 = 0.3, h1 = 0.0001, stop = 1.0   
+MPU of selfish miner 0:  0.5294117647058824
+MPU of selfish miner 1: 0
+MPU overall:  0.4375
+Blocks created by selfish miner 0:  17  Blocks in longest chain:  9
+Blocks created by selfish miner 1:  0  Blocks in longest chain:  0 
+Length of longest Chain :  14  Total Blocks :  32
+
+z0 = 50, ttx = 10, I = 1000.0, h0 = 0.3, h1 = 0.1, stop = 1.0      
+MPU of selfish miner 0:  0.375
+MPU of selfish miner 1:  0.0
+MPU overall:  0.5483870967741935
+Blocks created by selfish miner 0:  8  Blocks in longest chain:  3 
+Blocks created by selfish miner 1:  5  Blocks in longest chain:  0 
+Length of longest Chain :  17  Total Blocks :  31
+
+z0 = 50, ttx = 10, I = 1000.0, h0 = 0.3, h1 = 0.1, stop = 1.0
+MPU of selfish miner 0:  0.7857142857142857
+MPU of selfish miner 1:  0.75
+MPU overall:  0.5625
+Blocks created by selfish miner 0:  14  Blocks in longest chain:  11
+Blocks created by selfish miner 1:  4  Blocks in longest chain:  3 
+Length of longest Chain :  18  Total Blocks :  32
+
+Simulating the cryptocurrency network with 15 peers
+z0 = 50, ttx = 10, I = 1000.0, h0 = 0.3, h1 = 0.2, stop = 1.0
+MPU of selfish miner 0:  0.5555555555555556
+MPU of selfish miner 1:  0.375
+MPU overall:  0.5588235294117647
+Blocks created by selfish miner 0:  9  Blocks in longest chain:  5 
+Blocks created by selfish miner 1:  8  Blocks in longest chain:  3 
+Length of longest Chain :  19  Total Blocks :  34
+
+Simulating the cryptocurrency network with 15 peers
+z0 = 50, ttx = 10, I = 1000.0, h0 = 0.3, h1 = 0.2, stop = 1.0
+MPU of selfish miner 0:  0.4444444444444444
+MPU of selfish miner 1:  0.6666666666666666
+MPU overall:  0.5151515151515151
+Blocks created by selfish miner 0:  9  Blocks in longest chain:  4
+Blocks created by selfish miner 1:  9  Blocks in longest chain:  6
+Length of longest Chain :  17  Total Blocks :  33
+
